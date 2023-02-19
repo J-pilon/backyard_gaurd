@@ -1,4 +1,4 @@
-class OccupantController < ApplicationController
+class BookingsController < ApplicationController
   def show
   end
 
